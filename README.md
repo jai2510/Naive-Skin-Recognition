@@ -1,3 +1,3 @@
 # Jai
-my GitHub repository
-Now,this is my Repository
+
+The Skin Recognition File I have uploaded is quite Naive.
